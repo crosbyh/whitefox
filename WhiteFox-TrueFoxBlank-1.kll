@@ -1,0 +1,38 @@
+Variant = "truefox";
+Generator = "KIICONF 0.2";
+Base = "TheTrueFoxBase";
+Date = "2016-05-30";
+KLL = "0.3c";
+Author = "HaaTa (Jacob Alexander) 2015";
+Version = "0.2";
+Name = "WhiteFox";
+Layout = "TrueFoxBlank";
+
+U"ESC" : toggleKbdProtocol();
+U"1" : U"F1";
+U"2" : U"F2";
+U"3" : U"F3";
+U"4" : U"F4";
+U"5" : U"F5";
+U"6" : U"F6";
+U"7" : U"F7";
+U"8" : U"F8";
+U"9" : U"F9";
+U"0" : U"F10";
+U"MINUS" : U"F11";
+U"EQUAL" : U"F12";
+U"BACKTICK" : U"HOME";
+U"BACKSLASH" : U"END";
+U"PRINTSCREEN" : CONS"MUTE";
+U"DELETE" : U"F17";
+U"CAPSLOCK" : U"CAPSLOCK";
+U"ENTER" : U"PRINTSCREEN";
+U"PAGEUP" : CONS"VOLUMEUP";
+U"UP" : CONS"EJECT";
+U"PAGEDOWN" : CONS"VOLUMEDOWN";
+U"LEFT" : CONS"SCANPREVIOUSTRACK";
+U"DOWN" : CONS"PLAY";
+U"RIGHT" : CONS"FASTFORWARD";
+
+
+
