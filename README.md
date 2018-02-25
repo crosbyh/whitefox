@@ -1,4 +1,3 @@
-# Whitefox readme.md
 # My macOS Whitefox keyboard configuration
 
 This is my configuration for the  [Whitefox keyboard](https://input.club/whitefox/) (True Fox layout)
